@@ -1,3 +1,5 @@
+files: https://antidote.cloud/d/710601b28c4a4710a23a/
+
 Before use, the .zip file must NOT be unzipped.
 
 Please do not try to copy the image to your SD card. Images must be burned to the SD card. 
